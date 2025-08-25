@@ -1,0 +1,358 @@
+[2025-08-25 11:10:02] Iniciando monitoramento...
+[2025-08-25 11:10:02] Encontrados 9 sites para monitorar
+[2025-08-25 11:10:02] Novo site adicionado: empresawebdesign (empresawebdesign.com)
+[2025-08-25 11:10:02] Verificando: empresawebdesign - https://empresawebdesign.com
+[2025-08-25 11:10:03] Resultado: empresawebdesign - Status: 200 - Tempo: 213.6ms
+[2025-08-25 11:10:03] Novo site adicionado: lrbysoud (lrbysoud.com)
+[2025-08-25 11:10:03] Verificando: lrbysoud - https://lrbysoud.com
+[2025-08-25 11:10:04] Resultado: lrbysoud - Status: 200 - Tempo: 521.41ms
+[2025-08-25 11:10:04] Novo site adicionado: santoswebservices-lrbysoud (lrbysoud.santoswebservices.com)
+[2025-08-25 11:10:04] Verificando: santoswebservices-lrbysoud - https://lrbysoud.santoswebservices.com
+[2025-08-25 11:10:05] Resultado: santoswebservices-lrbysoud - Status: 200 - Tempo: 826.24ms
+[2025-08-25 11:10:05] Novo site adicionado: santoswebservices-mywines (mywines.santoswebservices.com)
+[2025-08-25 11:10:05] Verificando: santoswebservices-mywines - https://mywines.santoswebservices.com
+[2025-08-25 11:10:06] Resultado: santoswebservices-mywines - Status: 200 - Tempo: 373.7ms
+[2025-08-25 11:10:06] Novo site adicionado: santoswebservices-passgenius (passgenius.santoswebservices.com)
+[2025-08-25 11:10:06] Verificando: santoswebservices-passgenius - https://passgenius.santoswebservices.com
+[2025-08-25 11:10:07] Resultado: santoswebservices-passgenius - Status: 200 - Tempo: 236.57ms
+[2025-08-25 11:10:07] Novo site adicionado: santoswebservices-restaurant (restaurant.santoswebservices.com)
+[2025-08-25 11:10:07] Verificando: santoswebservices-restaurant - https://restaurant.santoswebservices.com
+[2025-08-25 11:10:07] Resultado: santoswebservices-restaurant - Status: 200 - Tempo: 367.66ms
+[2025-08-25 11:10:08] Novo site adicionado: santoswebservices (santoswebservices.com)
+[2025-08-25 11:10:08] Verificando: santoswebservices - https://santoswebservices.com
+[2025-08-25 11:10:08] Resultado: santoswebservices - Status: 200 - Tempo: 162.51ms
+[2025-08-25 11:10:09] Novo site adicionado: santoswebservices-search (search.santoswebservices.com)
+[2025-08-25 11:10:09] Verificando: santoswebservices-search - https://search.santoswebservices.com
+[2025-08-25 11:10:09] Resultado: santoswebservices-search - Status: 405 - Tempo: 728.23ms
+[2025-08-25 11:10:10] Novo site adicionado: studio4fit (studio4fit.pt)
+[2025-08-25 11:10:10] Verificando: studio4fit - https://studio4fit.pt
+[2025-08-25 11:10:10] Resultado: studio4fit - Status: 200 - Tempo: 177.11ms
+[2025-08-25 11:10:10] Monitoramento concluído: 9 sites verificados, 8 online, 1 offline
+[2025-08-25 11:10:10] Dados salvos: 3405 bytes escritos em /Users/andre/Documents/work/status/monitoring_data.json
+[2025-08-25 11:10:10] ---
+[2025-08-25 16:47:56] Iniciando monitoramento...
+[2025-08-25 16:47:56] Encontrados 9 sites para monitorar
+[2025-08-25 16:47:56] Verificando: empresawebdesign - https://empresawebdesign.com
+[2025-08-25 16:47:57] Resultado: empresawebdesign - Status: 200 - Tempo: 906.69ms
+[2025-08-25 16:47:57] Verificando: lrbysoud - https://lrbysoud.com
+[2025-08-25 16:47:58] Resultado: lrbysoud - Status: 200 - Tempo: 593.3ms
+[2025-08-25 16:47:58] Verificando: santoswebservices-lrbysoud - https://lrbysoud.santoswebservices.com
+[2025-08-25 16:48:00] Resultado: santoswebservices-lrbysoud - Status: 200 - Tempo: 1217.37ms
+[2025-08-25 16:48:00] Verificando: santoswebservices-mywines - https://mywines.santoswebservices.com
+[2025-08-25 16:48:01] Resultado: santoswebservices-mywines - Status: 200 - Tempo: 671.41ms
+[2025-08-25 16:48:01] Verificando: santoswebservices-passgenius - https://passgenius.santoswebservices.com
+[2025-08-25 16:48:01] Resultado: santoswebservices-passgenius - Status: 200 - Tempo: 274.38ms
+[2025-08-25 16:48:02] Verificando: santoswebservices-restaurant - https://restaurant.santoswebservices.com
+[2025-08-25 16:48:03] Resultado: santoswebservices-restaurant - Status: 200 - Tempo: 561.04ms
+[2025-08-25 16:48:03] Verificando: santoswebservices - https://santoswebservices.com
+[2025-08-25 16:48:03] Resultado: santoswebservices - Status: 200 - Tempo: 173.18ms
+[2025-08-25 16:48:04] Verificando: santoswebservices-search - https://search.santoswebservices.com
+[2025-08-25 16:48:04] Resultado: santoswebservices-search - Status: 405 - Tempo: 452ms
+[2025-08-25 16:48:05] Verificando: studio4fit - https://studio4fit.pt
+[2025-08-25 16:48:05] Resultado: studio4fit - Status: 200 - Tempo: 243.48ms
+[2025-08-25 16:48:05] Monitoramento concluído: 9 sites verificados, 8 online, 1 offline
+[2025-08-25 16:48:05] Dados salvos: 5355 bytes escritos em /Users/andre/Documents/work/status/monitoring_data.json
+[2025-08-25 16:48:05] ---
+[2025-08-25 19:12:01] Iniciando monitoramento...
+[2025-08-25 19:12:01] Encontrados 9 sites para monitorar
+[2025-08-25 19:12:01] Verificando: empresawebdesign - https://empresawebdesign.com
+[2025-08-25 19:12:02] Resultado: empresawebdesign - Status: 200 - Tempo: 339.91ms
+[2025-08-25 19:12:02] Verificando: lrbysoud - https://lrbysoud.com
+[2025-08-25 19:12:03] Resultado: lrbysoud - Status: 200 - Tempo: 854.61ms
+[2025-08-25 19:12:03] Verificando: santoswebservices-lrbysoud - https://lrbysoud.santoswebservices.com
+[2025-08-25 19:12:06] Resultado: santoswebservices-lrbysoud - Status: 200 - Tempo: 2125.11ms
+[2025-08-25 19:12:06] Verificando: santoswebservices-mywines - https://mywines.santoswebservices.com
+[2025-08-25 19:12:07] Resultado: santoswebservices-mywines - Status: 200 - Tempo: 645.49ms
+[2025-08-25 19:12:07] Verificando: santoswebservices-passgenius - https://passgenius.santoswebservices.com
+[2025-08-25 19:12:07] Resultado: santoswebservices-passgenius - Status: 200 - Tempo: 294.04ms
+[2025-08-25 19:12:08] Verificando: santoswebservices-restaurant - https://restaurant.santoswebservices.com
+[2025-08-25 19:12:09] Resultado: santoswebservices-restaurant - Status: 200 - Tempo: 521.63ms
+[2025-08-25 19:12:09] Verificando: santoswebservices - https://santoswebservices.com
+[2025-08-25 19:12:09] Resultado: santoswebservices - Status: 200 - Tempo: 201.66ms
+[2025-08-25 19:12:10] Verificando: santoswebservices-search - https://search.santoswebservices.com
+[2025-08-25 19:12:10] Resultado: santoswebservices-search - Status: 405 - Tempo: 226.82ms
+[2025-08-25 19:12:10] Verificando: studio4fit - https://studio4fit.pt
+[2025-08-25 19:12:11] Resultado: studio4fit - Status: 200 - Tempo: 252.07ms
+[2025-08-25 19:12:11] Monitoramento concluído: 9 sites verificados, 8 online, 1 offline
+[2025-08-25 19:12:11] Dados salvos: 7309 bytes escritos em /Users/andre/Documents/work/status/monitoring_data.json
+[2025-08-25 19:12:11] ---
+[2025-08-25 19:14:21] Iniciando monitoramento...
+[2025-08-25 19:14:21] Encontrados 9 sites para monitorar
+[2025-08-25 19:14:21] Verificando: empresawebdesign - https://empresawebdesign.com
+[2025-08-25 19:14:22] Resultado: empresawebdesign - Status: 200 - Tempo: 184.34ms
+[2025-08-25 19:14:22] Verificando: lrbysoud - https://lrbysoud.com
+[2025-08-25 19:14:23] Resultado: lrbysoud - Status: 200 - Tempo: 567.74ms
+[2025-08-25 19:14:23] Verificando: santoswebservices-lrbysoud - https://lrbysoud.santoswebservices.com
+[2025-08-25 19:14:24] Resultado: santoswebservices-lrbysoud - Status: 200 - Tempo: 805.15ms
+[2025-08-25 19:14:25] Verificando: santoswebservices-mywines - https://mywines.santoswebservices.com
+[2025-08-25 19:14:25] Resultado: santoswebservices-mywines - Status: 200 - Tempo: 461.19ms
+[2025-08-25 19:14:25] Verificando: santoswebservices-passgenius - https://passgenius.santoswebservices.com
+[2025-08-25 19:14:26] Resultado: santoswebservices-passgenius - Status: 200 - Tempo: 325.34ms
+[2025-08-25 19:14:26] Verificando: santoswebservices-restaurant - https://restaurant.santoswebservices.com
+[2025-08-25 19:14:27] Resultado: santoswebservices-restaurant - Status: 200 - Tempo: 377.73ms
+[2025-08-25 19:14:27] Verificando: santoswebservices - https://santoswebservices.com
+[2025-08-25 19:14:27] Resultado: santoswebservices - Status: 200 - Tempo: 196.23ms
+[2025-08-25 19:14:28] Verificando: santoswebservices-search - https://search.santoswebservices.com
+[2025-08-25 19:14:28] Resultado: santoswebservices-search - Status: 405 - Tempo: 220.91ms
+[2025-08-25 19:14:29] Verificando: studio4fit - https://studio4fit.pt
+[2025-08-25 19:14:29] Resultado: studio4fit - Status: 200 - Tempo: 226.02ms
+[2025-08-25 19:14:29] Monitoramento concluído: 9 sites verificados, 8 online, 1 offline
+[2025-08-25 19:14:29] Dados salvos: 9262 bytes escritos em /Users/andre/Documents/work/status/monitoring_data.json
+[2025-08-25 19:14:29] ---
+[2025-08-25 19:42:16] Iniciando monitoramento...
+[2025-08-25 19:42:16] Encontrados 9 sites para monitorar
+[2025-08-25 19:42:16] Verificando: empresawebdesign - https://empresawebdesign.com
+[2025-08-25 19:42:17] Resultado: empresawebdesign - Status: 200 - Tempo: 421.61ms
+[2025-08-25 19:42:17] Verificando: lrbysoud - https://lrbysoud.com
+[2025-08-25 19:42:18] Resultado: lrbysoud - Status: 200 - Tempo: 1371.01ms
+[2025-08-25 19:42:19] Verificando: santoswebservices-lrbysoud - https://lrbysoud.santoswebservices.com
+[2025-08-25 19:42:20] Resultado: santoswebservices-lrbysoud - Status: 200 - Tempo: 1202.08ms
+[2025-08-25 19:42:21] Verificando: santoswebservices-mywines - https://mywines.santoswebservices.com
+[2025-08-25 19:42:22] Resultado: santoswebservices-mywines - Status: 200 - Tempo: 1177.15ms
+[2025-08-25 19:42:22] Verificando: santoswebservices-passgenius - https://passgenius.santoswebservices.com
+[2025-08-25 19:42:23] Resultado: santoswebservices-passgenius - Status: 200 - Tempo: 302.46ms
+[2025-08-25 19:42:23] Verificando: santoswebservices-restaurant - https://restaurant.santoswebservices.com
+[2025-08-25 19:42:24] Resultado: santoswebservices-restaurant - Status: 200 - Tempo: 918.71ms
+[2025-08-25 19:42:25] Verificando: santoswebservices - https://santoswebservices.com
+[2025-08-25 19:42:25] Resultado: santoswebservices - Status: 200 - Tempo: 209.75ms
+[2025-08-25 19:42:25] Verificando: santoswebservices-search - https://search.santoswebservices.com
+[2025-08-25 19:42:26] Resultado: santoswebservices-search - Status: 405 - Tempo: 349.23ms
+[2025-08-25 19:42:26] Verificando: studio4fit - https://studio4fit.pt
+[2025-08-25 19:42:27] Resultado: studio4fit - Status: 200 - Tempo: 887.25ms
+[2025-08-25 19:42:27] Monitoramento concluído: 9 sites verificados, 8 online, 1 offline
+[2025-08-25 19:42:27] Dados salvos: 11218 bytes escritos em /Users/andre/Documents/work/status/monitoring_data.json
+[2025-08-25 19:42:27] ---
+[2025-08-25 19:44:04] Iniciando monitoramento...
+[2025-08-25 19:44:04] Encontrados 9 sites para monitorar
+[2025-08-25 19:44:04] Verificando: empresawebdesign - https://empresawebdesign.com
+[2025-08-25 19:44:05] Resultado: empresawebdesign - Status: 200 - Tempo: 190.28ms
+[2025-08-25 19:44:05] Verificando: lrbysoud - https://lrbysoud.com
+[2025-08-25 19:44:06] Resultado: lrbysoud - Status: 200 - Tempo: 469.82ms
+[2025-08-25 19:44:06] Verificando: santoswebservices-lrbysoud - https://lrbysoud.santoswebservices.com
+[2025-08-25 19:44:07] Resultado: santoswebservices-lrbysoud - Status: 200 - Tempo: 804.91ms
+[2025-08-25 19:44:07] Verificando: santoswebservices-mywines - https://mywines.santoswebservices.com
+[2025-08-25 19:44:08] Resultado: santoswebservices-mywines - Status: 200 - Tempo: 433.22ms
+[2025-08-25 19:44:08] Verificando: santoswebservices-passgenius - https://passgenius.santoswebservices.com
+[2025-08-25 19:44:09] Resultado: santoswebservices-passgenius - Status: 200 - Tempo: 297.41ms
+[2025-08-25 19:44:09] Verificando: santoswebservices-restaurant - https://restaurant.santoswebservices.com
+[2025-08-25 19:44:09] Resultado: santoswebservices-restaurant - Status: 200 - Tempo: 368.64ms
+[2025-08-25 19:44:10] Verificando: santoswebservices - https://santoswebservices.com
+[2025-08-25 19:44:10] Resultado: santoswebservices - Status: 200 - Tempo: 193.93ms
+[2025-08-25 19:44:11] Verificando: santoswebservices-search - https://search.santoswebservices.com
+[2025-08-25 19:44:11] Resultado: santoswebservices-search - Status: 405 - Tempo: 206.32ms
+[2025-08-25 19:44:11] Verificando: studio4fit - https://studio4fit.pt
+[2025-08-25 19:44:12] Resultado: studio4fit - Status: 200 - Tempo: 222.9ms
+[2025-08-25 19:44:12] Monitoramento concluído: 9 sites verificados, 8 online, 1 offline
+[2025-08-25 19:44:12] Dados salvos: 13170 bytes escritos em /Users/andre/Documents/work/status/monitoring_data.json
+[2025-08-25 19:44:12] ---
+[2025-08-25 19:52:06] Iniciando monitoramento...
+[2025-08-25 19:52:06] Encontrados 10 sites para monitorar
+[2025-08-25 19:52:06] Verificando: empresawebdesign - https://empresawebdesign.com
+[2025-08-25 19:52:06] Resultado: empresawebdesign - Status: 200 - Tempo: 202.42ms
+[2025-08-25 19:52:06] Verificando: lrbysoud - https://lrbysoud.com
+[2025-08-25 19:52:07] Resultado: lrbysoud - Status: 200 - Tempo: 559.48ms
+[2025-08-25 19:52:07] Verificando: santoswebservices-lrbysoud - https://lrbysoud.santoswebservices.com
+[2025-08-25 19:52:08] Resultado: santoswebservices-lrbysoud - Status: 200 - Tempo: 904.02ms
+[2025-08-25 19:52:09] Verificando: santoswebservices-mywines - https://mywines.santoswebservices.com
+[2025-08-25 19:52:09] Resultado: santoswebservices-mywines - Status: 200 - Tempo: 435.23ms
+[2025-08-25 19:52:10] Verificando: santoswebservices-passgenius - https://passgenius.santoswebservices.com
+[2025-08-25 19:52:10] Resultado: santoswebservices-passgenius - Status: 200 - Tempo: 338.14ms
+[2025-08-25 19:52:11] Verificando: santoswebservices-restaurant - https://restaurant.santoswebservices.com
+[2025-08-25 19:52:11] Resultado: santoswebservices-restaurant - Status: 200 - Tempo: 334.71ms
+[2025-08-25 19:52:11] Verificando: santoswebservices - https://santoswebservices.com
+[2025-08-25 19:52:12] Resultado: santoswebservices - Status: 200 - Tempo: 203.67ms
+[2025-08-25 19:52:12] Verificando: santoswebservices-search - https://search.santoswebservices.com
+[2025-08-25 19:52:12] Resultado: santoswebservices-search - Status: 405 - Tempo: 222.73ms
+[2025-08-25 19:52:13] Verificando: studio4fit - https://studio4fit.pt
+[2025-08-25 19:52:13] Resultado: studio4fit - Status: 200 - Tempo: 227.85ms
+[2025-08-25 19:52:14] Novo site adicionado: teste (teste.pt)
+[2025-08-25 19:52:14] Verificando: teste - https://teste.pt
+[2025-08-25 19:52:14] Resultado: teste - Status: 200 - Tempo: 629.7ms
+[2025-08-25 19:52:15] Monitoramento concluído: 10 sites verificados, 9 online, 1 offline
+[2025-08-25 19:52:15] Dados salvos: 15469 bytes escritos em /Users/andre/Documents/work/status/monitoring_data.json
+[2025-08-25 19:52:15] ---
+[2025-08-25 19:56:48] Iniciando monitoramento...
+[2025-08-25 19:56:48] Encontrados 10 sites para monitorar
+[2025-08-25 19:56:48] Verificando: empresawebdesign - https://empresawebdesign.com
+[2025-08-25 19:56:48] Resultado: empresawebdesign - Status: 200 - Tempo: 314.42ms
+[2025-08-25 19:56:49] Verificando: lrbysoud - https://lrbysoud.com
+[2025-08-25 19:56:49] Resultado: lrbysoud - Status: 200 - Tempo: 505.91ms
+[2025-08-25 19:56:50] Verificando: santoswebservices-lrbysoud - https://lrbysoud.santoswebservices.com
+[2025-08-25 19:56:51] Resultado: santoswebservices-lrbysoud - Status: 200 - Tempo: 814.9ms
+[2025-08-25 19:56:51] Verificando: santoswebservices-mywines - https://mywines.santoswebservices.com
+[2025-08-25 19:56:52] Resultado: santoswebservices-mywines - Status: 200 - Tempo: 398.76ms
+[2025-08-25 19:56:52] Verificando: santoswebservices-passgenius - https://passgenius.santoswebservices.com
+[2025-08-25 19:56:52] Resultado: santoswebservices-passgenius - Status: 200 - Tempo: 178.28ms
+[2025-08-25 19:56:53] Verificando: santoswebservices-restaurant - https://restaurant.santoswebservices.com
+[2025-08-25 19:56:53] Resultado: santoswebservices-restaurant - Status: 200 - Tempo: 313.52ms
+[2025-08-25 19:56:54] Verificando: santoswebservices - https://santoswebservices.com
+[2025-08-25 19:56:54] Resultado: santoswebservices - Status: 200 - Tempo: 155.29ms
+[2025-08-25 19:56:54] Verificando: santoswebservices-search - https://search.santoswebservices.com
+[2025-08-25 19:56:55] Resultado: santoswebservices-search - Status: 405 - Tempo: 151.19ms
+[2025-08-25 19:56:55] Verificando: studio4fit - https://studio4fit.pt
+[2025-08-25 19:56:55] Resultado: studio4fit - Status: 200 - Tempo: 157.34ms
+[2025-08-25 19:56:56] Verificando: teste - https://teste.pt
+[2025-08-25 19:56:56] Resultado: teste - Status: 200 - Tempo: 185.16ms
+[2025-08-25 19:56:56] Monitoramento concluído: 10 sites verificados, 9 online, 1 offline
+[2025-08-25 19:56:56] Dados salvos: 17638 bytes escritos em /Users/andre/Documents/work/status/monitoring_data.json
+[2025-08-25 19:56:56] ---
+[2025-08-25 19:58:30] Iniciando monitoramento...
+[2025-08-25 19:58:30] Encontrados 10 sites para monitorar
+[2025-08-25 19:58:30] Verificando: empresawebdesign - https://empresawebdesign.com
+[2025-08-25 19:58:30] Resultado: empresawebdesign - Status: 200 - Tempo: 179.18ms
+[2025-08-25 19:58:31] Verificando: lrbysoud - https://lrbysoud.com
+[2025-08-25 19:58:31] Resultado: lrbysoud - Status: 200 - Tempo: 555.69ms
+[2025-08-25 19:58:32] Verificando: santoswebservices-lrbysoud - https://lrbysoud.santoswebservices.com
+[2025-08-25 19:58:33] Resultado: santoswebservices-lrbysoud - Status: 200 - Tempo: 861.65ms
+[2025-08-25 19:58:33] Verificando: santoswebservices-mywines - https://mywines.santoswebservices.com
+[2025-08-25 19:58:34] Resultado: santoswebservices-mywines - Status: 404 - Tempo: 150.66ms
+[2025-08-25 19:58:34] Verificando: santoswebservices-passgenius - https://passgenius.santoswebservices.com
+[2025-08-25 19:58:34] Resultado: santoswebservices-passgenius - Status: 200 - Tempo: 180.43ms
+[2025-08-25 19:58:35] Verificando: santoswebservices-restaurant - https://restaurant.santoswebservices.com
+[2025-08-25 19:58:35] Resultado: santoswebservices-restaurant - Status: 200 - Tempo: 257.94ms
+[2025-08-25 19:58:35] Verificando: santoswebservices - https://santoswebservices.com
+[2025-08-25 19:58:36] Resultado: santoswebservices - Status: 200 - Tempo: 160.19ms
+[2025-08-25 19:58:36] Verificando: santoswebservices-search - https://search.santoswebservices.com
+[2025-08-25 19:58:36] Resultado: santoswebservices-search - Status: 405 - Tempo: 158.43ms
+[2025-08-25 19:58:37] Verificando: studio4fit - https://studio4fit.pt
+[2025-08-25 19:58:37] Resultado: studio4fit - Status: 200 - Tempo: 162.2ms
+[2025-08-25 19:58:37] Verificando: teste - https://teste.pt
+[2025-08-25 19:58:38] Resultado: teste - Status: 200 - Tempo: 163.4ms
+[2025-08-25 19:58:38] Monitoramento concluído: 10 sites verificados, 8 online, 2 offline
+[2025-08-25 19:58:38] Dados salvos: 19806 bytes escritos em /Users/andre/Documents/work/status/monitoring_data.json
+[2025-08-25 19:58:38] ---
+[2025-08-25 19:59:00] Iniciando monitoramento...
+[2025-08-25 19:59:00] Encontrados 10 sites para monitorar
+[2025-08-25 19:59:00] Verificando: empresawebdesign - https://empresawebdesign.com
+[2025-08-25 19:59:00] Resultado: empresawebdesign - Status: 200 - Tempo: 171.94ms
+[2025-08-25 19:59:01] Verificando: lrbysoud - https://lrbysoud.com
+[2025-08-25 19:59:01] Resultado: lrbysoud - Status: 200 - Tempo: 426.65ms
+[2025-08-25 19:59:02] Verificando: santoswebservices-lrbysoud - https://lrbysoud.santoswebservices.com
+[2025-08-25 19:59:03] Resultado: santoswebservices-lrbysoud - Status: 200 - Tempo: 785.56ms
+[2025-08-25 19:59:03] Verificando: santoswebservices-mywines - https://mywines.santoswebservices.com
+[2025-08-25 19:59:03] Resultado: santoswebservices-mywines - Status: 404 - Tempo: 147.18ms
+[2025-08-25 19:59:04] Verificando: santoswebservices-passgenius - https://passgenius.santoswebservices.com
+[2025-08-25 19:59:04] Resultado: santoswebservices-passgenius - Status: 200 - Tempo: 170.4ms
+[2025-08-25 19:59:05] Verificando: santoswebservices-restaurant - https://restaurant.santoswebservices.com
+[2025-08-25 19:59:05] Resultado: santoswebservices-restaurant - Status: 200 - Tempo: 284.06ms
+[2025-08-25 19:59:05] Verificando: santoswebservices - https://santoswebservices.com
+[2025-08-25 19:59:06] Resultado: santoswebservices - Status: 200 - Tempo: 91.35ms
+[2025-08-25 19:59:06] Verificando: santoswebservices-search - https://search.santoswebservices.com
+[2025-08-25 19:59:06] Resultado: santoswebservices-search - Status: 405 - Tempo: 138.93ms
+[2025-08-25 19:59:07] Verificando: studio4fit - https://studio4fit.pt
+[2025-08-25 19:59:07] Resultado: studio4fit - Status: 200 - Tempo: 116.32ms
+[2025-08-25 19:59:07] Verificando: teste - https://teste.pt
+[2025-08-25 19:59:07] Resultado: teste - Status: 200 - Tempo: 123.88ms
+[2025-08-25 19:59:08] Monitoramento concluído: 10 sites verificados, 8 online, 2 offline
+[2025-08-25 19:59:08] Dados salvos: 21974 bytes escritos em /Users/andre/Documents/work/status/monitoring_data.json
+[2025-08-25 19:59:08] ---
+[2025-08-25 20:02:24] Iniciando monitoramento...
+[2025-08-25 20:02:24] Encontrados 10 sites para monitorar
+[2025-08-25 20:02:24] Verificando: empresawebdesign - https://empresawebdesign.com
+[2025-08-25 20:02:24] Resultado: empresawebdesign - Status: 200 - Tempo: 199.09ms
+[2025-08-25 20:02:25] Verificando: lrbysoud - https://lrbysoud.com
+[2025-08-25 20:02:25] Resultado: lrbysoud - Status: 200 - Tempo: 432.53ms
+[2025-08-25 20:02:26] Verificando: santoswebservices-lrbysoud - https://lrbysoud.santoswebservices.com
+[2025-08-25 20:02:27] Resultado: santoswebservices-lrbysoud - Status: 200 - Tempo: 864.2ms
+[2025-08-25 20:02:27] Verificando: santoswebservices-mywines - https://mywines.santoswebservices.com
+[2025-08-25 20:02:27] Resultado: santoswebservices-mywines - Status: 404 - Tempo: 157.23ms
+[2025-08-25 20:02:28] Verificando: santoswebservices-passgenius - https://passgenius.santoswebservices.com
+[2025-08-25 20:02:28] Resultado: santoswebservices-passgenius - Status: 200 - Tempo: 219.63ms
+[2025-08-25 20:02:29] Verificando: santoswebservices-restaurant - https://restaurant.santoswebservices.com
+[2025-08-25 20:02:29] Resultado: santoswebservices-restaurant - Status: 200 - Tempo: 334.71ms
+[2025-08-25 20:02:30] Verificando: santoswebservices - https://santoswebservices.com
+[2025-08-25 20:02:30] Resultado: santoswebservices - Status: 200 - Tempo: 162.84ms
+[2025-08-25 20:02:30] Verificando: santoswebservices-search - https://search.santoswebservices.com
+[2025-08-25 20:02:30] Resultado: santoswebservices-search - Status: 405 - Tempo: 168.63ms
+[2025-08-25 20:02:31] Verificando: studio4fit - https://studio4fit.pt
+[2025-08-25 20:02:31] Resultado: studio4fit - Status: 200 - Tempo: 157.96ms
+[2025-08-25 20:02:32] Verificando: teste - https://teste.pt
+[2025-08-25 20:02:32] Resultado: teste - Status: 200 - Tempo: 173.66ms
+[2025-08-25 20:02:32] Monitoramento concluído: 10 sites verificados, 8 online, 2 offline
+[2025-08-25 20:02:32] Dados salvos: 24143 bytes escritos em /Users/andre/Documents/work/status/monitoring_data.json
+[2025-08-25 20:02:32] ---
+[2025-08-25 20:03:29] Iniciando monitoramento...
+[2025-08-25 20:03:29] Encontrados 10 sites para monitorar
+[2025-08-25 20:03:29] Verificando: empresawebdesign - https://empresawebdesign.com
+[2025-08-25 20:03:30] Resultado: empresawebdesign - Status: 200 - Tempo: 178.75ms
+[2025-08-25 20:03:30] Verificando: lrbysoud - https://lrbysoud.com
+[2025-08-25 20:03:31] Resultado: lrbysoud - Status: 200 - Tempo: 543.48ms
+[2025-08-25 20:03:31] Verificando: santoswebservices-lrbysoud - https://lrbysoud.santoswebservices.com
+[2025-08-25 20:03:32] Resultado: santoswebservices-lrbysoud - Status: 200 - Tempo: 798.57ms
+[2025-08-25 20:03:33] Verificando: santoswebservices-mywines - https://mywines.santoswebservices.com
+[2025-08-25 20:03:33] Resultado: santoswebservices-mywines - Status: 404 - Tempo: 97.17ms
+[2025-08-25 20:03:33] Verificando: santoswebservices-passgenius - https://passgenius.santoswebservices.com
+[2025-08-25 20:03:34] Resultado: santoswebservices-passgenius - Status: 200 - Tempo: 215.75ms
+[2025-08-25 20:03:34] Verificando: santoswebservices-restaurant - https://restaurant.santoswebservices.com
+[2025-08-25 20:03:34] Resultado: santoswebservices-restaurant - Status: 200 - Tempo: 280.75ms
+[2025-08-25 20:03:35] Verificando: santoswebservices - https://santoswebservices.com
+[2025-08-25 20:03:35] Resultado: santoswebservices - Status: 200 - Tempo: 138.37ms
+[2025-08-25 20:03:36] Verificando: santoswebservices-search - https://search.santoswebservices.com
+[2025-08-25 20:03:36] Resultado: santoswebservices-search - Status: 405 - Tempo: 146.07ms
+[2025-08-25 20:03:36] Verificando: studio4fit - https://studio4fit.pt
+[2025-08-25 20:03:36] Resultado: studio4fit - Status: 200 - Tempo: 148.11ms
+[2025-08-25 20:03:37] Verificando: teste - https://teste.pt
+[2025-08-25 20:03:37] Resultado: teste - Status: 200 - Tempo: 150.27ms
+[2025-08-25 20:03:37] Monitoramento concluído: 10 sites verificados, 8 online, 2 offline
+[2025-08-25 20:03:37] Dados salvos: 26312 bytes escritos em /Users/andre/Documents/work/status/monitoring_data.json
+[2025-08-25 20:03:37] ---
+[2025-08-25 20:03:57] Iniciando monitoramento...
+[2025-08-25 20:03:57] Encontrados 10 sites para monitorar
+[2025-08-25 20:03:57] Verificando: empresawebdesign - https://empresawebdesign.com
+[2025-08-25 20:03:57] Resultado: empresawebdesign - Status: 200 - Tempo: 194.93ms
+[2025-08-25 20:03:58] Verificando: lrbysoud - https://lrbysoud.com
+[2025-08-25 20:03:58] Resultado: lrbysoud - Status: 200 - Tempo: 435.95ms
+[2025-08-25 20:03:59] Verificando: santoswebservices-lrbysoud - https://lrbysoud.santoswebservices.com
+[2025-08-25 20:04:00] Resultado: santoswebservices-lrbysoud - Status: 200 - Tempo: 790.81ms
+[2025-08-25 20:04:00] Verificando: santoswebservices-mywines - https://mywines.santoswebservices.com
+[2025-08-25 20:04:00] Resultado: santoswebservices-mywines - Status: 404 - Tempo: 104.8ms
+[2025-08-25 20:04:01] Verificando: santoswebservices-passgenius - https://passgenius.santoswebservices.com
+[2025-08-25 20:04:01] Resultado: santoswebservices-passgenius - Status: 200 - Tempo: 221.41ms
+[2025-08-25 20:04:02] Verificando: santoswebservices-restaurant - https://restaurant.santoswebservices.com
+[2025-08-25 20:04:02] Resultado: santoswebservices-restaurant - Status: 200 - Tempo: 250ms
+[2025-08-25 20:04:03] Verificando: santoswebservices - https://santoswebservices.com
+[2025-08-25 20:04:03] Resultado: santoswebservices - Status: 200 - Tempo: 151.42ms
+[2025-08-25 20:04:03] Verificando: santoswebservices-search - https://search.santoswebservices.com
+[2025-08-25 20:04:03] Resultado: santoswebservices-search - Status: 405 - Tempo: 109.58ms
+[2025-08-25 20:04:04] Verificando: studio4fit - https://studio4fit.pt
+[2025-08-25 20:04:04] Resultado: studio4fit - Status: 200 - Tempo: 136.77ms
+[2025-08-25 20:04:04] Verificando: teste - https://teste.pt
+[2025-08-25 20:04:05] Resultado: teste - Status: 200 - Tempo: 164.01ms
+[2025-08-25 20:04:05] Monitoramento concluído: 10 sites verificados, 8 online, 2 offline
+[2025-08-25 20:04:05] Dados salvos: 28478 bytes escritos em /Users/andre/Documents/work/status/monitoring_data.json
+[2025-08-25 20:04:05] ---
+[2025-08-25 20:05:12] Iniciando monitoramento...
+[2025-08-25 20:05:12] Encontrados 10 sites para monitorar
+[2025-08-25 20:05:12] Novo site adicionado: empresawebdesign (empresawebdesign.com)
+[2025-08-25 20:05:12] Verificando: empresawebdesign - https://empresawebdesign.com
+[2025-08-25 20:05:12] Resultado: empresawebdesign - Status: 200 - Tempo: 166.73ms
+[2025-08-25 20:05:12] Novo site adicionado: lrbysoud (lrbysoud.com)
+[2025-08-25 20:05:12] Verificando: lrbysoud - https://lrbysoud.com
+[2025-08-25 20:05:13] Resultado: lrbysoud - Status: 200 - Tempo: 433.52ms
+[2025-08-25 20:05:13] Novo site adicionado: santoswebservices-lrbysoud (lrbysoud.santoswebservices.com)
+[2025-08-25 20:05:13] Verificando: santoswebservices-lrbysoud - https://lrbysoud.santoswebservices.com
+[2025-08-25 20:05:14] Resultado: santoswebservices-lrbysoud - Status: 200 - Tempo: 774.61ms
+[2025-08-25 20:05:15] Novo site adicionado: santoswebservices-mywines (mywines.santoswebservices.com)
+[2025-08-25 20:05:15] Verificando: santoswebservices-mywines - https://mywines.santoswebservices.com
+[2025-08-25 20:05:15] Resultado: santoswebservices-mywines - Status: 404 - Tempo: 146.61ms
+[2025-08-25 20:05:15] Novo site adicionado: santoswebservices-passgenius (passgenius.santoswebservices.com)
+[2025-08-25 20:05:15] Verificando: santoswebservices-passgenius - https://passgenius.santoswebservices.com
+[2025-08-25 20:05:15] Resultado: santoswebservices-passgenius - Status: 200 - Tempo: 162.79ms
+[2025-08-25 20:05:16] Novo site adicionado: santoswebservices-restaurant (restaurant.santoswebservices.com)
+[2025-08-25 20:05:16] Verificando: santoswebservices-restaurant - https://restaurant.santoswebservices.com
+[2025-08-25 20:05:16] Resultado: santoswebservices-restaurant - Status: 200 - Tempo: 268.96ms
+[2025-08-25 20:05:17] Novo site adicionado: santoswebservices (santoswebservices.com)
+[2025-08-25 20:05:17] Verificando: santoswebservices - https://santoswebservices.com
+[2025-08-25 20:05:17] Resultado: santoswebservices - Status: 200 - Tempo: 135.38ms
+[2025-08-25 20:05:17] Novo site adicionado: santoswebservices-search (search.santoswebservices.com)
+[2025-08-25 20:05:17] Verificando: santoswebservices-search - https://search.santoswebservices.com
+[2025-08-25 20:05:18] Resultado: santoswebservices-search - Status: 405 - Tempo: 136.75ms
+[2025-08-25 20:05:18] Novo site adicionado: studio4fit (studio4fit.pt)
+[2025-08-25 20:05:18] Verificando: studio4fit - https://studio4fit.pt
+[2025-08-25 20:05:18] Resultado: studio4fit - Status: 200 - Tempo: 155.08ms
+[2025-08-25 20:05:19] Novo site adicionado: teste (teste.pt)
+[2025-08-25 20:05:19] Verificando: teste - https://teste.pt
+[2025-08-25 20:05:19] Resultado: teste - Status: 200 - Tempo: 162.47ms
+[2025-08-25 20:05:19] Monitoramento concluído: 10 sites verificados, 8 online, 2 offline
+[2025-08-25 20:05:19] Dados salvos: 3754 bytes escritos em /Users/andre/Documents/work/status/monitoring_data.json
+[2025-08-25 20:05:19] ---
