@@ -16,9 +16,9 @@ A simple PHP project to monitor the status of websites listed in a `sites.txt` f
 ## 📋 How it works
 
 1. **List your websites** in `sites.txt`, one URL per line:
-   https://example1.com
-   https://example2.com
-   https://example3.com
+   - https://example1.com|website_name
+   - https://example2.com|website_name
+   - https://example3.com|website_name
 
 
 2. **Configure your Telegram bot** by creating a `.env` file in the project root:
