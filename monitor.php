@@ -244,4 +244,5 @@ if (php_sapi_name() === 'cli') {
     echo "Sites offline: " . ($sites_checked - $sites_online) . "\n";
     echo "Dados salvos em: $data_file\n";
 }
+sendTelegram("✅ Dados Atualizados!");
 ?>
