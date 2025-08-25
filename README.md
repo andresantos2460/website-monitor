@@ -1,5 +1,8 @@
 # Website Monitor
 
+![PHP](https://img.shields.io/badge/PHP-7.4%2B-blue)
+![Telegram](https://img.shields.io/badge/Telegram-Bot-green)
+
 A simple PHP project to monitor the status of websites listed in a `sites.txt` file and send alerts to Telegram when a site experiences a critical status (HTTP ≥ 500 or 429).
 
 ---
