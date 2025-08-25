@@ -2,3 +2,5 @@
 /vendor/
 /.idea/
 /.vscode/
+monitor.log
+monitoring_data.json
